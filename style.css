@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  direction: rtl;
+  background-color: #f8f8f8;
+  padding: 20px;
+}
+
+#menu, #order-summary {
+  display: none;
+  margin-top: 20px;
+}
+
+.item {
+  background-color: #fff;
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  width: 300px;
+}
+
+input, textarea, button {
+  padding: 8px;
+  margin: 5px;
+  width: 90%;
+}
